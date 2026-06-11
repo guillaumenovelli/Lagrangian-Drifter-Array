@@ -1,4 +1,4 @@
-# Contributing to [Project Name]
+# Contributing 
 
 We welcome contributions to this research project! To ensure our code remains high-quality and reproducible, please follow these guidelines:
 
@@ -11,3 +11,4 @@ We welcome contributions to this research project! To ensure our code remains hi
 4. Tests: Please ensure that your contributions do not break existing functionality.
 
 5. Questions: If you have questions about the methodology or code, please start a conversation in the "Discussions" tab.
+For direct inquiries or questions regarding operational configurations, please contact: gnovelli@miami.edu
