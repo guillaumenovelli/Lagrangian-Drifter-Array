@@ -6,6 +6,6 @@ authors:
   orcid: "https://orcid.org/0000-0001-9560-7304"
 title: "Lagrangian-Drifter-Array"
 version: 1.0.0
-doi:
+doi: 10.5281/zenodo.20650546
 date-released: 2026-06-11
 url: "https://github.com/guillaumenovelli/Lagrangian-Drifter-Array"
