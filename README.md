@@ -64,3 +64,10 @@ The remaining valid triplets are assigned into scale groups using the representa
 Valid triads are stored in the structured cell array triads_by_scale. You can directly extract target scales for downstream calculations (e.g., divergence, vorticity, or strain) as shown below:
 % Extract the list of drifter ID triplets belonging to the 2.0 to 5.0 km scale (Bin 4)
 target_triads = triads_by_scale{4};
+
+## Citation
+If you use this simulator framework or its specific high-density array geometry to plan field work or evaluate Lagrangian multi-scale data, please attribute it as follows:
+
+Novelli, G. (2026). Lagrangian Drifter Array Simulator & Scale Optimizer (WHIRLS). Zenodo DOI: [![DOI](https://zenodo.org/badge/1266691321.svg)](https://doi.org/10.5281/zenodo.20650545).
+
+A machine-readable citation format can be accessed directly in the accompanying CITATION.cff file.
