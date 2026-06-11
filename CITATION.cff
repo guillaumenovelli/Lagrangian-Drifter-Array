@@ -1,14 +1,11 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: "If you use this simulator framework or its specific high-density array geometry to plan field work or evaluate Lagrangian multi-scale data, please attribute it as follows:Novelli, G. (2026). Lagrangian Drifter Array Simulator & Scale Optimizer (WHIRLS)"
 authors:
-- family-names: "YOUR_NAME_HERE"
-  given-names: "YOUR_NAME_HERE"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Lisa"
-  given-names: "Mona"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-title: "lab-template"
+- family-names: "NOVELLI"
+  given-names: "GUILLAUME"
+  orcid: "https://orcid.org/0000-0001-9560-7304"
+title: "Lagrangian-Drifter-Array"
 version: 1.0.0
-doi: 10.5281/zenodo.1234
-date-released: 2026-05-26
-url: "https://github.com/Beal-Lab-Research/lab-template"
+doi:
+date-released: 2026-06-11
+url: "https://github.com/guillaumenovelli/Lagrangian-Drifter-Array"
